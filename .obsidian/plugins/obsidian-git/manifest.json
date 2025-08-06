@@ -1,0 +1,11 @@
+{
+  "id": "obsidian-git",
+  "name": "Obsidian Git",
+  "version": "2.25.0",
+  "minAppVersion": "1.0.0",
+  "description": "Git integration for Obsidian",
+  "author": "Vinzent",
+  "authorUrl": "https://github.com/Vinzent03/obsidian-git",
+  "fundingUrl": "https://github.com/sponsors/Vinzent03",
+  "isDesktopOnly": false
+}
